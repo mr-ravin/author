@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.ae5d4968.css","mappings":"AAAA,QAKE,UAAY,CAFZ,QAAS,CAFT,cAAe,CAGf,SAAU,CAFV,MAIF","sources":["index.css"],"sourcesContent":[".middle {\n  position: fixed;\n  top: 1%;\n  left: 20%;\n  right: 21%;\n  color: black;\n}\n\n"],"names":[],"sourceRoot":""}
