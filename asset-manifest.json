@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/author/static/css/main.afbe5625.css",
-    "main.js": "/author/static/js/main.5d9bb130.js",
-    "static/js/156.e2cd4e02.chunk.js": "/author/static/js/156.e2cd4e02.chunk.js",
+    "main.js": "/author/static/js/main.1d4c95bf.js",
+    "static/js/488.4733f9af.chunk.js": "/author/static/js/488.4733f9af.chunk.js",
     "static/media/Book- The Engineer's Plan.pdf": "/author/static/media/Book- The Engineer's Plan.889c5c775cf5293ac1d7.pdf",
     "static/media/The Engineer's Plan.jpg": "/author/static/media/The Engineer's Plan.a41b320c66a35e4d49d7.jpg",
     "index.html": "/author/index.html",
     "main.afbe5625.css.map": "/author/static/css/main.afbe5625.css.map",
-    "main.5d9bb130.js.map": "/author/static/js/main.5d9bb130.js.map",
-    "156.e2cd4e02.chunk.js.map": "/author/static/js/156.e2cd4e02.chunk.js.map"
+    "main.1d4c95bf.js.map": "/author/static/js/main.1d4c95bf.js.map",
+    "488.4733f9af.chunk.js.map": "/author/static/js/488.4733f9af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afbe5625.css",
-    "static/js/main.5d9bb130.js"
+    "static/js/main.1d4c95bf.js"
   ]
 }
