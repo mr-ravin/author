@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+[![The Engineer's Plan](https://github.com/mr-ravin/author/blob/main/The%20Engineer's%20Plan.jpg)](https://mr-ravin.github.io/author)
+<p align="justify">
+<i><b>Book Name</b>: The Engineer's Plan</i>
+<br/>
+<i><b>Author</b>: </i><a href="https://mr-ravin.github.io"><i>Ravin Kumar</i></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This book is written to provide engineering students and aspiring candidates with relevant information, tricks, tactics, and strategies to optimally achieve their goals. For the students targeting employment in the engineering sector, this book also discusses how to publish a research paper, copyright a computer software, and the entire process of filing a patent in India.
+<br/><br/>
+     &emsp; It also mentions optimal steps for candidates planning to go into non-engineering focussed employment such as public sector services, academics, and business administration.
+<br/><br/>
+    &emsp; One of the purposes of this book is to make candidates question their thoughts and help them strategise on developing a plan to achieve their end goals.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<i><b>Available on</b>: 1. <a href="https://www.amazon.in/dp/1636405118" target="_blank" rel="noreferrer">Amazon India</a>  2. <a href="https://www.flipkart.com/the-engineers-plan/p/itm923e0c945ddf5" target="_blank" rel="noreferrer">Flipkart</a>  3. <a href="https://store.whitefalconpublishing.com/products/the-engineer-s-plan" target="_blank" rel="noreferrer">WFP Store</a> 4. <a href="https://play.google.com/store/books/details?id=0TpCEQAAQBAJ" target="_blank" rel="noreferrer">Google Play</a> 5. <a href="http://books.google.com/books/about?id=0TpCEQAAQBAJ" target="_blank" rel="noreferrer">Google Books</a> 6. <a href="https://leanpub.com/the-engineers-plan" target="_blank" rel="noreferrer">Leanpub</a> 7. <a href="https://archive.org/details/the-engineers-plan" target="_blank" rel="noreferrer">Internet Archive</a> 8. <a href="https://www.scribd.com/document/990219030/The-Engineer-s-Plan" target="_blank" rel="noreferrer">Scribd</a> 9. <a href="https://drive.google.com/drive/folders/1F4IXdUFIuBhue30wWwae9fNvIn4mww8w?usp=sharing" target="_blank" rel="noreferrer">Google Drive</a> 10. <a href="https://mr-ravin.github.io/author" target="_blank" rel="noreferrer">Book's Website</a></i></i>
