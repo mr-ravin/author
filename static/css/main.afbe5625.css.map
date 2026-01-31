@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.afbe5625.css","mappings":"AAAA,QAKE,UAAY,CAFZ,QAAS,CAFT,iBAAkB,CAGlB,SAAU,CAFV,MAIF","sources":["App.css"],"sourcesContent":[".middle {\n  position: absolute;\n  top: 1%;\n  left: 20%;\n  right: 21%;\n  color: black;\n}\n\n"],"names":[],"ignoreList":[],"sourceRoot":""}

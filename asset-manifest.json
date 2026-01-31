@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/author/static/css/main.afbe5625.css",
+    "main.js": "/author/static/js/main.afe4a3ca.js",
+    "static/js/453.e8b41514.chunk.js": "/author/static/js/453.e8b41514.chunk.js",
+    "static/media/Book- The Engineer's Plan.pdf": "/author/static/media/Book- The Engineer's Plan.547e4e36a4fcb9c4cbc3.pdf",
+    "static/media/The Engineer's Plan.jpg": "/author/static/media/The Engineer's Plan.a41b320c66a35e4d49d7.jpg",
+    "index.html": "/author/index.html",
+    "main.afbe5625.css.map": "/author/static/css/main.afbe5625.css.map",
+    "main.afe4a3ca.js.map": "/author/static/js/main.afe4a3ca.js.map",
+    "453.e8b41514.chunk.js.map": "/author/static/js/453.e8b41514.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afbe5625.css",
+    "static/js/main.afe4a3ca.js"
+  ]
+}
