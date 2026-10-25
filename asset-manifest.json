@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/author/static/css/main.afbe5625.css",
-    "main.js": "/author/static/js/main.80b2c3e7.js",
-    "static/js/453.e8b41514.chunk.js": "/author/static/js/453.e8b41514.chunk.js",
-    "static/media/The Engineer's Plan.jpg": "/author/static/media/The Engineer's Plan.a41b320c66a35e4d49d7.jpg",
+    "main.js": "/author/static/js/main.e0d58b39.js",
+    "static/js/453.2c7403be.chunk.js": "/author/static/js/453.2c7403be.chunk.js",
+    "static/media/Philosophy of the Trident.png": "/author/static/media/Philosophy of the Trident.234b34aef082e928526d.png",
+    "static/media/The Engineer's Plan.png": "/author/static/media/The Engineer's Plan.ecf777459186a2684677.png",
     "index.html": "/author/index.html",
     "main.afbe5625.css.map": "/author/static/css/main.afbe5625.css.map",
-    "main.80b2c3e7.js.map": "/author/static/js/main.80b2c3e7.js.map",
-    "453.e8b41514.chunk.js.map": "/author/static/js/453.e8b41514.chunk.js.map"
+    "main.e0d58b39.js.map": "/author/static/js/main.e0d58b39.js.map",
+    "453.2c7403be.chunk.js.map": "/author/static/js/453.2c7403be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afbe5625.css",
-    "static/js/main.80b2c3e7.js"
+    "static/js/main.e0d58b39.js"
   ]
 }
